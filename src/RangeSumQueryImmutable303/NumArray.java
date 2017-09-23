@@ -1,4 +1,4 @@
-package RangeSumQueryImmutable;
+package RangeSumQueryImmutable303;
 
 public class NumArray
 {
